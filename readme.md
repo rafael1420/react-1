@@ -1,1 +1,1 @@
-# Star of React JS
+# Start of React JS
